@@ -1,0 +1,4 @@
+supabase/functions/handlerCV/deno.lock
+supabase/functions/.env
+supabase/.branches/_current_branch
+deno.lock
